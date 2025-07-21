@@ -36,3 +36,7 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# Custom shims for React Native/Expo
+ws-shim.js
+stream-shim.js
