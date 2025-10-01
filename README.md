@@ -1,6 +1,3 @@
-Perfect ⚡ Thor!
-Here’s the **entire ready-to-use README.md** content. You can **copy-paste this directly** into your GitHub `README.md` file without needing to edit further:
-
 ````markdown
 # Mesaanger - Modern Messaging App 📱
 
